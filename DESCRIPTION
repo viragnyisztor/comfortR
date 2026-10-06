@@ -9,8 +9,8 @@ Authors@R: c(
       role = c("aut", "cre")
     )
   )
-Description: There are two functions. One recommends movies/series to watch, 
-the other gives unconditional support.
-License: What license is it under?
+Description: There are two functions. One recommends movies/series to watch,
+    the other gives unconditional support.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
